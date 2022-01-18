@@ -14,7 +14,7 @@ app.use('/', (req, res) => {
         return res.status(500).send({ status: 'FAILED', message: e.message });
     }
 });
-app.use('/', topicsController);
-app.use('/', topicsDetailsController);
+app.use('/all-topics', topicsController);
+app.use('/all-topics-details', topicsDetailsController);
 
 start();
