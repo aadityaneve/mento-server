@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const TopicsDetails = require('../models/topicsDetails.model');
 
-router.get('/', async (req, res) => {
+router.get('/all-topics-details', async (req, res) => {
     try {
         const allTopicsDetails = await TopicsDetails.find().lean().exec();
 
