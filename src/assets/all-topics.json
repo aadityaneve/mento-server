@@ -1,121 +1,121 @@
 [
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Entrepreneurship/Ritesh+5.jpg",
-    "desc-block": "Entrepreneurship 101",
-    "name": "Ritesh Agarwal",
-    "desg": "Founder, Oyo Rooms",
-    "total-count": 9
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Film-Making/landscape+nitish.jpg",
-    "desc-block": "Nitesh Tiwari",
-    "name": "Director, Dangal",
-    "desg": 15,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Creating-A-Web-Series/finalbiswathumbnail.jpg",
-    "desc-block": "Biswapati Sarkar",
-    "name": "Director, TVF",
-    "desg": 9,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Producing-A-Film+/Producing-a-film-web-cover2.jpg",
-    "desc-block": "Film-Production 101",
-    "name": "Siddharth Roy Kapur",
-    "desg": "Film Producer",
-    "total-count": 9
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Illustration/landscapeAlicia.jpg",
-    "desc-block": "Alicia Souza",
-    "name": "Illustrator",
-    "desg": 9,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Fashion-Blogging/Fashion-blogging-portrait..jpg",
-    "desc-block": "Santoshi Shetty",
-    "name": "Fashion Blogger",
-    "desg": 9,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Standup-Comedy/landscape+sanjay.jpg",
-    "desc-block": "Sanjay Manaktala",
-    "name": "Comedian",
-    "desg": 9,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Photography/resizedFinalArjun.jpg",
-    "desc-block": "Arjun Kamath",
-    "name": "Photographer",
-    "desg": 9,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Improv-Comedy/landscape+saad+khan.jpg",
-    "desc-block": "Saad Khan",
-    "name": "Founder, The Improv",
-    "desg": 9,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Artist-Management/resizedFinalGauravvyaz.jpg",
-    "desc-block": "Gaurav Vaz",
-    "name": "Artist Manager",
-    "desg": 9,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Food-Blogging/saloni.jpg",
-    "desc-block": "Saloni Kukreja",
-    "name": "Food Blogger",
-    "desg": 7,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Beat-Boxing/Beat-boxing-portrait-cover.jpg",
-    "desc-block": "Vineeth Vincent",
-    "name": "Beat Boxer",
-    "desg": 8,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Radio-Jockey/FinalDariussmall1.jpg",
-    "desc-block": "Darius Sunawala",
-    "name": "Radio Jockey",
-    "desg": 8,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Quitting-Your-Job/rakshit+thumbnail+2.jpg",
-    "desc-block": "Rakshit Kejriwal",
-    "name": "Entrepreneur",
-    "desg": 8,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Starting-A-Restaurant/landscape+Sameerhandyash1.jpg",
-    "desc-block": "How To Start Your Own Restaurant 101",
-    "name": "Sameer / Yash",
-    "desg": "Co-founders, The Bombay Canteen",
-    "total-count": 8
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Being-a-Chef+/resizedThomasZacharias.jpg",
-    "desc-block": "THOMAS ZACHARIAS",
-    "name": "Chef Partner, The Bombay Canteen",
-    "desg": 7,
-    "total-count": ""
-  },
-  {
-    "card-img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Public-Speaking/landscape+varun.jpg",
-    "desc-block": "Personal Finance",
-    "name": "Varun Agarwal",
-    "desg": "Entrepreneur",
-    "total-count": 18
-  }
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Entrepreneurship/Ritesh+5.jpg",
+        "heading": "Entrepreneurship 101",
+        "name": "RITESH AGARWAL",
+        "desg": "FOUNDER, OYO ROOMS",
+        "total_count": 9
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Film-Making/landscape+nitish.jpg",
+        "heading": "Film-Making 101",
+        "name": "NITESH TIWARI",
+        "desg": "DIRECTOR, DANGAL",
+        "total_count": 15
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Creating-A-Web-Series/finalbiswathumbnail.jpg",
+        "heading": "Screen-Writing 101",
+        "name": "BISWAPATI SARKAR",
+        "desg": "DIRECTOR, TVF",
+        "total_count": 9
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Producing-A-Film+/Producing-a-film-web-cover2.jpg",
+        "heading": "Film-Production 101",
+        "name": "SIDDHART ROY KAPUR",
+        "desg": "FILM pRODUCER",
+        "total_count": 9
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Illustration/landscapeAlicia.jpg",
+        "heading": "Freelancing 101",
+        "name": "ALICIA SOUZA",
+        "desg": "ILLUSTRATOR",
+        "total_count": 9
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Fashion-Blogging/Fashion-blogging-portrait..jpg",
+        "heading": "Fashion-Blogging 101",
+        "name": "SANTOSHI SHETTY",
+        "desg": "FASHION BLOGGER",
+        "total_count": 9
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Standup-Comedy/landscape+sanjay.jpg",
+        "heading": "Standup-Comedy 101",
+        "name": "SANJAY MANAKTALA",
+        "desg": "COMEDIAN",
+        "total_count": 9
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Photography/resizedFinalArjun.jpg",
+        "heading": "Photography 101",
+        "name": "ARJUN KAMATH",
+        "desg": "PHOTOGRAPHER",
+        "total_count": 9
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Improv-Comedy/landscape+saad+khan.jpg",
+        "heading": "Improv-Comedy 101",
+        "name": "SAAD KHAN",
+        "desg": "FOUNDER, THE IMPROV",
+        "total_count": 9
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Artist-Management/resizedFinalGauravvyaz.jpg",
+        "heading": "Artist-Management 101",
+        "name": "GAURAV VAZ",
+        "desg": "ARTIST MANAGER",
+        "total_count": 9
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Food-Blogging/saloni.jpg",
+        "heading": "Food-Blogging 101",
+        "name": "SALONI KUKREJA",
+        "desg": "FOOD BLOGGER",
+        "total_count": 7
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Beat-Boxing/Beat-boxing-portrait-cover.jpg",
+        "heading": "Beat-Boxing 101",
+        "name": "VINEETH VINCENT",
+        "desg": "BEAT BOXER",
+        "total_count": 8
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Radio-Jockey/FinalDariussmall1.jpg",
+        "heading": "Radio-Jockey 101",
+        "name": "DARIUS SUNAWALA",
+        "desg": "RADIO JOCKEY",
+        "total_count": 8
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Quitting-Your-Job/rakshit+thumbnail+2.jpg",
+        "heading": "StartUp 101",
+        "name": "RAKSHIT KEJRIWAL",
+        "desg": "ENTREPRENEUR",
+        "total_count": 8
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Starting-A-Restaurant/landscape+Sameerhandyash1.jpg",
+        "heading": "How To Start Your Own Restaurant 101",
+        "name": "SAMEER / YASH",
+        "desg": "CO-FOUNDERS, THE BOMBAY CANTEEN",
+        "total_count": 8
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Being-a-Chef+/resizedThomasZacharias.jpg",
+        "heading": "Chef 101",
+        "name": "THOMAS ZACHARIAS",
+        "desg": "CHEF PARTNER, THE BOMBAY CANTEEN",
+        "total_count": 7
+    },
+    {
+        "card_img": "https://d1tthr7pv14hhy.cloudfront.net/Images/Courses/Public-Speaking/landscape+varun.jpg",
+        "heading": "Personal Finance",
+        "name": "VARUN AGRAWAL",
+        "desg": "ENTREPRENEUR",
+        "total_count": 18
+    }
 ]
